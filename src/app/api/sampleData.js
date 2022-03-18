@@ -8,6 +8,7 @@ export const sampleData = [
         city: 'NY, USA',
         venue: 'Empire State Building, 5th Avenue, New York, NY, USA',
         hostedBy: 'Bob',
+        logo: '/assets/logos/mickey_color_72.png',
         hostPhotoURL: 'https://randomuser.me/api/portraits/men/20.jpg',
         attendees: [
             {
@@ -31,6 +32,7 @@ export const sampleData = [
         city: 'London, UK',
         venue: 'Punch & Judy, Henrietta Street, London, UK',
         hostedBy: 'Tom',
+        logo: '/assets/logos/3017.png',
         hostPhotoURL: 'https://randomuser.me/api/portraits/men/22.jpg',
         attendees: [
             {
